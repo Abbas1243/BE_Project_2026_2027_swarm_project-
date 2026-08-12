@@ -3,7 +3,7 @@
 
 ## Project Title
 
-**Write the full title of your project here**
+Decentralized Swarm Mobile Bots
 
 ---
 
@@ -11,10 +11,10 @@
 
 | Sr. No. | Name of Student | Roll No. | Branch | Email ID |
 |---|---|---|---|---|
-| 1 |  |  |  |  |
-| 2 |  |  |  |  |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
+| 1 | Abbas Najam | 59 | Automation & Robotics |  |
+| 2 | Mayuresh Joshi | 49 | Automation & Robotics |  |
+| 3 | Shravan Umrale | 66 | Automation & Robotics | umraleshravan12@gmail.com |
+| 4 | Yash Vaychal | 31 | Automation & Robotics |  |
 
 ---
 
@@ -339,7 +339,7 @@ Add images or videos of the working prototype.
 ![Prototype](images/prototype_photo.jpg)
 ```
 
-Video Link:
+Video Link: https://youtu.be/-i1T_cCoHbY
 
 ```markdown
 [Project Demo Video](https://drive.google.com/your-video-link)
