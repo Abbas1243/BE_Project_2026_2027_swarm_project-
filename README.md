@@ -20,7 +20,7 @@ Decentralized Swarm Mobile Bots
 
 ## Guide Details
 
-**Project Guide:**  
+**Project Guide:**  Deepti Khimani
 **Department:** Automation and Robotics  
 **Institute:** VESIT, Mumbai  
 
