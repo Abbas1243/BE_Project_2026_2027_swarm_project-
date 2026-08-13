@@ -12,10 +12,10 @@ Video Link: https://youtu.be/RQamKgik0cE?si=gTgPMuQe8ZkZP1P7
 
 | Sr. No. | Name of Student | Roll No. | Branch | Email ID |
 |---|---|---|---|---|
-| 1 | Abbas Najam | 59 | Automation & Robotics |  |
-| 2 | Mayuresh Joshi | 49 | Automation & Robotics |  |
+| 1 | Abbas Najam | 59 | Automation & Robotics | 2023.abbas.najam@ves.ac.in |
+| 2 | Mayuresh Joshi | 49 | Automation & Robotics | 2023.mayuresh.joshi@ves.ac.in |
 | 3 | Shravan Umrale | 66 | Automation & Robotics| 2023.shravan.umrale@ves.ac.in |
-| 4 | Yash Vaychal | 31 | Automation & Robotics |  |
+| 4 | Yash Vaychal | 31 | Automation & Robotics | 2023.yash.vaychal@ves.ac.in |
 
 ---
 
