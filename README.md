@@ -4,6 +4,7 @@
 ## Project Title
 
 Decentralized Swarm Mobile Bots
+Video Link: https://youtu.be/RQamKgik0cE?si=gTgPMuQe8ZkZP1P7
 
 ---
 
@@ -13,7 +14,7 @@ Decentralized Swarm Mobile Bots
 |---|---|---|---|---|
 | 1 | Abbas Najam | 59 | Automation & Robotics |  |
 | 2 | Mayuresh Joshi | 49 | Automation & Robotics |  |
-| 3 | Shravan Umrale | 66 | Automation & Robotics | umraleshravan12@gmail.com |
+| 3 | Shravan Umrale | 66 | Automation & Robotics| 2023.shravan.umrale@ves.ac.in |
 | 4 | Yash Vaychal | 31 | Automation & Robotics |  |
 
 ---
